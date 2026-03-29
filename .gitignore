@@ -1,0 +1,15 @@
+# 忽略数据集文件夹
+DIV2K_train_HR/
+DIV2K_valid_HR/
+
+# 忽略模型权重文件夹
+checkpoints/
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+
+# 忽略测试生成的图片（可选，如果你想保留也可以去掉这行）
+results/
+
+venv/
